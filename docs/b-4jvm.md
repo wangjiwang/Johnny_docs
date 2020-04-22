@@ -1,5 +1,3 @@
-![](https://cdn.jsdelivr.net/gh/wangjiwang/MyPictures@master/data/www.tentacl-1.0-320x320.gif)
-![](https://cdn.jsdelivr.net/gh/wangjiwang/MyPictures@master/data/timg.gif)
 
 ## 2.4 JVM
 
