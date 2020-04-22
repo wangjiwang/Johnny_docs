@@ -1,5 +1,3 @@
-
-
 ## 2.2 Java集合
 
 > 作者：Guide哥。
@@ -430,3 +428,5 @@ Output：
 
 ![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
 
+![](https://cdn.jsdelivr.net/gh/wangjiwang/MyPictures@master/data/www.tentacl-1.0-320x320.gif)
+![](https://cdn.jsdelivr.net/gh/wangjiwang/MyPictures@master/data/timg.gif)
