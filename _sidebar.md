@@ -17,6 +17,8 @@
   
 * 设计模式
    * [设计模式介绍](./docs/d-1设计模式介绍.md)
+   * [java实现](./docs/d-2java实现.md)
+   * [python实现](./docs/d-3python实现.md)
 * ROS
 
    
